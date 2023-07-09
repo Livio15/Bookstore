@@ -15,7 +15,6 @@
 	
 # Thông tin bổ sung:
 Tài khoản sử dụng:
-
 	- username: admin
 	- password: admin
 	
